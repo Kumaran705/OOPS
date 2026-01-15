@@ -1,4 +1,3 @@
-import java.util.Scanner;
 class Bus{
      void display(){
           System.out.println("This is Bus class");
